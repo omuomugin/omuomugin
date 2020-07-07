@@ -1,5 +1,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/omuomugin/omuomugin)  
-![Twitter Follow](https://img.shields.io/twitter/follow/omuomugin?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/omuomugin?style=social)](https://twitter.com/omuomugin)
 
 ## Who am I
 Software Enginner based in Tokyo.
