@@ -2,18 +2,26 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/omuomugin?style=social)](https://twitter.com/omuomugin)
 
 ## Who am I
-Software Enginner based in Tokyo.
-Currently work as iOS/Android Software Arhitect.
+Software Engineer based in Tokyo.  
+Currently working as iOS/Android Software Architect.
 
-## Posts (in Japanese)
-https://scrapbox.io/omuomugin/
+### Skills
+- Android App (Java, Kotlin)
+- iOS App (Objective-C, Swift)
+- Server Side
+  - Spring boot (Java, Kotlin)
+  - Ruby on Rails (Ruby)
 
-## Hobbies
-### Commandline tools
+## Posts
+https://scrapbox.io/omuomugin/ (JP)
+
+## Free time Coding
 - [castit](https://github.com/omuomugin/castit): Post Multiple Message to Multiple Channel with single command.
 - [labelit](https://github.com/omuomugin/labelit): GitHub labels as a Code
 - [mdtable](https://github.com/omuomugin/mdtable): Markdown table generator written in Crystal
-
-### Others
 - [dotfiles](https://github.com/omuomugin/dotfiles): dotfiles for omuomugin
 - [sinippets](https://github.com/omuomugin/snippets): snippets mainly for personal useage
+
+## Others
+- [RESUME (JP)](https://github.com/omuomugin/omuomugin/blob/master/RESUME.md)
+- [Tool Kit](https://github.com/omuomugin/omuomugin/blob/master/toolkit) : templates and tools used in everyday work
