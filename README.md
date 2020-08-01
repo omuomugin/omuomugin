@@ -5,6 +5,10 @@
 Software Engineer based in Tokyo.  
 Currently working as iOS/Android Software Architect.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omuomugin)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omuomugin)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 - Android App (Java, Kotlin)
 - iOS App (Objective-C, Swift)
