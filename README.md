@@ -11,6 +11,7 @@ Currently working as iOS/Android Software Architect.
 - Server Side
   - Spring boot (Java, Kotlin)
   - Ruby on Rails (Ruby)
+- Agile Coach
 
 ## Posts
 https://scrapbox.io/omuomugin/ (JP)
